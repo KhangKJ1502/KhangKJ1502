@@ -68,17 +68,29 @@ Tôi là một lập trình viên với niềm đam mê xây dựng các hệ th
 ---
 
 ### 🐍 Hoạt Động Đóng Góp
+<h2 align="center">⚡ Contribution Activity</h2>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhangKJ1502&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhangKJ1502&theme=tokyo-night&hide_border=true&area=true&custom_title=Khang's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=38bdae&point=f778ba" />
 </div>
+
 <br>
 
-<!-- Đã ẩn phần con rắn. Khi nào bạn setup GitHub Action xong thì mở lại đoạn này nhé!
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KhangKJ1502/KhangKJ1502/output/github-contribution-grid-snake.svg" alt="Commit Snake Animation" />
+  <img height="165" src="https://streak-stats.demolab.com?user=KhangKJ1502&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhangKJ1502&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
--->
+
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://img.shields.io/github/followers/KhangKJ1502?style=for-the-badge&color=58a6ff" />
+  <img src="https://img.shields.io/github/stars/KhangKJ1502?style=for-the-badge&color=f778ba" />
+  <img src="https://komarev.com/ghpvc/?username=KhangKJ1502&style=for-the-badge&color=38bdae" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
 </div>
